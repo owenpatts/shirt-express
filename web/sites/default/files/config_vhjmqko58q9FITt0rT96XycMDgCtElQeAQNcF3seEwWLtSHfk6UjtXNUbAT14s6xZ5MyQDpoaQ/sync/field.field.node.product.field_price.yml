@@ -1,0 +1,25 @@
+uuid: bf980e2e-e334-436e-b2ed-36e500af7c27
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_price
+    - node.type.product
+id: node.product.field_price
+field_name: field_price
+entity_type: node
+bundle: product
+label: Price
+description: 'The price of the given product in CAD.  Ex: 24.99'
+required: true
+translatable: false
+default_value:
+  -
+    value: 24.99
+default_value_callback: ''
+settings:
+  min: 9.99
+  max: null
+  prefix: $
+  suffix: ''
+field_type: float

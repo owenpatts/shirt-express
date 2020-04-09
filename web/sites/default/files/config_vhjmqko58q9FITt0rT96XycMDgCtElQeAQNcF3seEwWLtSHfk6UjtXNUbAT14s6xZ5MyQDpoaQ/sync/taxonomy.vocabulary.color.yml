@@ -1,0 +1,8 @@
+uuid: eda37122-f534-4254-8b6a-0d550af54730
+langcode: en
+status: true
+dependencies: {  }
+name: Color
+vid: color
+description: 'Product Color'
+weight: 0

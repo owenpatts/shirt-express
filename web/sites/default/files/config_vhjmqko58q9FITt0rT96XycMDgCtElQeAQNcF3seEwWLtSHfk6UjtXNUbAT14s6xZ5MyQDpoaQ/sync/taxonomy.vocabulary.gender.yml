@@ -1,0 +1,8 @@
+uuid: f1edd27b-7763-4455-bab1-de28e234c725
+langcode: en
+status: true
+dependencies: {  }
+name: Gender
+vid: gender
+description: 'Product Gender'
+weight: 0

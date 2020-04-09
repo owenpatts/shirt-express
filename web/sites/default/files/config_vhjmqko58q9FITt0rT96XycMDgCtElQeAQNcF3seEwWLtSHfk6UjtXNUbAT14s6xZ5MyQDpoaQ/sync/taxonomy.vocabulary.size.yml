@@ -1,0 +1,8 @@
+uuid: 427b3144-cc94-40d0-97ae-796d793f2cdb
+langcode: en
+status: true
+dependencies: {  }
+name: Size
+vid: size
+description: 'Product Size'
+weight: 0

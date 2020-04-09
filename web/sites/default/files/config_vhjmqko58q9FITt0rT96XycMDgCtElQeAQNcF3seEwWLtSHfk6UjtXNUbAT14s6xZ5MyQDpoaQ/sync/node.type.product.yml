@@ -1,0 +1,17 @@
+uuid: b74e3767-5073-41e7-9a59-c202327bc98b
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Product
+type: product
+description: 'Tracking of shirt products for the store'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false
